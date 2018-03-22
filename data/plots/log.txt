@@ -1,0 +1,175 @@
+Morphology: data/rp080520-1C_P7.asc 
+	Is single tree                                     : True
+	Has valid soma                                     : True
+	Has soma points                                    : True
+	Has sequential ids                                 : True
+	Has increasing ids                                 : True
+	Has valid neurites                                 : True
+	No missing parents                                 : True
+	Has all finite radius neurites                     : True
+	Has axon                                           : True
+	Has basal dendrite                                 : True
+	Has apical dendrite                                : True
+	Has nonzero soma radius                            : True
+	Has all nonzero neurite radii                      : True
+	Has all nonzero section lengths                    : True
+	Has no jumps                                       : False
+	Has no fat ends                                    : False
+	Has all nonzero segment lengths                    : False
+	ALL                                                : False
+Morphology: data/C040896A-P3.asc 
+	Is single tree                                     : True
+	Has valid soma                                     : True
+	Has soma points                                    : True
+	Has sequential ids                                 : True
+	Has increasing ids                                 : True
+	Has valid neurites                                 : True
+	No missing parents                                 : True
+	Has all finite radius neurites                     : True
+	Has axon                                           : True
+	Has basal dendrite                                 : True
+	Has apical dendrite                                : True
+	Has no jumps                                       : True
+	Has no fat ends                                    : True
+	Has nonzero soma radius                            : True
+	Has all nonzero neurite radii                      : True
+	Has all nonzero section lengths                    : False
+	Has all nonzero segment lengths                    : False
+	ALL                                                : False
+Morphology: data/exampleCell.CNG.swc 
+	Is single tree                                     : True
+	Has valid soma                                     : True
+	Has soma points                                    : True
+	Has sequential ids                                 : True
+	Has increasing ids                                 : True
+	Has valid neurites                                 : True
+	No missing parents                                 : True
+	Has all finite radius neurites                     : True
+	Has axon                                           : True
+	Has basal dendrite                                 : True
+	Has apical dendrite                                : True
+	Has no jumps                                       : True
+	Has no fat ends                                    : True
+	Has nonzero soma radius                            : True
+	Has all nonzero neurite radii                      : True
+	Has all nonzero section lengths                    : True
+	Has all nonzero segment lengths                    : True
+	ALL                                                : True
+Morphology: data/C060114A4.asc 
+	Is single tree                                     : True
+	Has valid soma                                     : True
+	Has soma points                                    : True
+	Has sequential ids                                 : True
+	Has increasing ids                                 : True
+	Has valid neurites                                 : True
+	No missing parents                                 : True
+	Has all finite radius neurites                     : True
+	Has axon                                           : True
+	Has basal dendrite                                 : True
+	Has apical dendrite                                : True
+	Has no jumps                                       : True
+	Has no fat ends                                    : True
+	Has nonzero soma radius                            : True
+	Has all nonzero neurite radii                      : True
+	Has all nonzero section lengths                    : True
+	Has all nonzero segment lengths                    : False
+	ALL                                                : False
+Morphology: data/.DS_Store 
+	ALL                                                : False
+Morphology: data/vd110611_idA.asc 
+	Is single tree                                     : True
+	Has valid soma                                     : True
+	Has soma points                                    : True
+	Has sequential ids                                 : True
+	Has increasing ids                                 : True
+	Has valid neurites                                 : True
+	No missing parents                                 : True
+	Has all finite radius neurites                     : True
+	Has axon                                           : True
+	Has basal dendrite                                 : True
+	Has apical dendrite                                : True
+	Has no jumps                                       : True
+	Has no fat ends                                    : True
+	Has nonzero soma radius                            : True
+	Has all nonzero neurite radii                      : True
+	Has all nonzero section lengths                    : True
+	Has all nonzero segment lengths                    : True
+	ALL                                                : True
+Morphology: data/rp080520-1C_P3.asc 
+	Is single tree                                     : True
+	Has valid soma                                     : True
+	Has soma points                                    : True
+	Has sequential ids                                 : True
+	Has increasing ids                                 : True
+	Has valid neurites                                 : True
+	No missing parents                                 : True
+	Has all finite radius neurites                     : True
+	Has axon                                           : True
+	Has basal dendrite                                 : True
+	Has apical dendrite                                : True
+	Has no jumps                                       : True
+	Has nonzero soma radius                            : True
+	Has all nonzero neurite radii                      : True
+	Has all nonzero section lengths                    : True
+	Has no fat ends                                    : False
+	Has all nonzero segment lengths                    : False
+	ALL                                                : False
+Morphology: data/log.txt 
+	ALL                                                : False
+Morphology: data/vd110617_idA.asc 
+	Is single tree                                     : True
+	Has valid soma                                     : True
+	Has soma points                                    : True
+	Has sequential ids                                 : True
+	Has increasing ids                                 : True
+	Has valid neurites                                 : True
+	No missing parents                                 : True
+	Has all finite radius neurites                     : True
+	Has axon                                           : True
+	Has basal dendrite                                 : True
+	Has apical dendrite                                : True
+	Has no jumps                                       : True
+	Has no fat ends                                    : True
+	Has nonzero soma radius                            : True
+	Has all nonzero neurite radii                      : True
+	Has all nonzero section lengths                    : True
+	Has all nonzero segment lengths                    : True
+	ALL                                                : True
+Morphology: data/vd110518_idA.asc 
+	Is single tree                                     : True
+	Has valid soma                                     : True
+	Has soma points                                    : True
+	Has sequential ids                                 : True
+	Has increasing ids                                 : True
+	Has valid neurites                                 : True
+	No missing parents                                 : True
+	Has all finite radius neurites                     : True
+	Has axon                                           : True
+	Has basal dendrite                                 : True
+	Has apical dendrite                                : True
+	Has no jumps                                       : True
+	Has no fat ends                                    : True
+	Has nonzero soma radius                            : True
+	Has all nonzero neurite radii                      : True
+	Has all nonzero section lengths                    : True
+	Has all nonzero segment lengths                    : False
+	ALL                                                : False
+Morphology: data/rp080520-1C_P9.asc 
+	Is single tree                                     : True
+	Has valid soma                                     : True
+	Has soma points                                    : True
+	Has sequential ids                                 : True
+	Has increasing ids                                 : True
+	Has valid neurites                                 : True
+	No missing parents                                 : True
+	Has all finite radius neurites                     : True
+	Has axon                                           : True
+	Has basal dendrite                                 : True
+	Has apical dendrite                                : True
+	Has no jumps                                       : True
+	Has nonzero soma radius                            : True
+	Has all nonzero neurite radii                      : True
+	Has all nonzero section lengths                    : True
+	Has no fat ends                                    : False
+	Has all nonzero segment lengths                    : False
+	ALL                                                : False
