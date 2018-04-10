@@ -1,0 +1,50 @@
+{
+    "LongStepPos": {
+        "stimuli": [
+            {
+                "delay": 250, 
+                "amp": 0.5593, 
+                "duration": 3250, 
+                "totduration": 3750
+            }, 
+            {
+                "delay": 0, 
+                "amp": -0.1199, 
+                "duration": 3750, 
+                "totduration": 3750
+            }
+        ]
+    }, 
+    "ShortStepPos": {
+        "stimuli": [
+            {
+                "delay": 200, 
+                "amp": 0.4887, 
+                "duration": 700, 
+                "totduration": 1100
+            }, 
+            {
+                "delay": 0, 
+                "amp": -0.1198, 
+                "duration": 1100, 
+                "totduration": 1100
+            }
+        ]
+    }, 
+    "LongStepNeg": {
+        "stimuli": [
+            {
+                "delay": 200, 
+                "amp": -0.1198, 
+                "duration": 3300, 
+                "totduration": 3700
+            }, 
+            {
+                "delay": 0, 
+                "amp": -0.1303, 
+                "duration": 3700, 
+                "totduration": 3700
+            }
+        ]
+    }
+}
